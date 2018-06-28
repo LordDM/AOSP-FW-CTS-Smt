@@ -1,5 +1,6 @@
-# AOSP-FW-CTS-Smt
-creating camera imagining test 
-$ mkdir ~/adb
+# AOSP-FW-CTS-Sm
+mkdir ~/adb
+
+
 
 
